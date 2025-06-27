@@ -1,0 +1,17 @@
+
+h1, h2, h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#special-heading {
+    font-size: 50px;
+    color: orange;
+}
+
+.highlight {
+    color: teal
+}
+
+p {
+    color: grey;
+}   
